@@ -7,8 +7,11 @@ standalone.
 
 Downloading OMXPlayer
 ---------------------
-
+	Original:
     git clone https://github.com/popcornmix/omxplayer.git
+	
+	UDP Sync
+    git clone https://github.com/ktrofimov/omxplayer-udpsync.git
 
 Compiling OMXPlayer
 -------------------
